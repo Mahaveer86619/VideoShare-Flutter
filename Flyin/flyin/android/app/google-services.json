@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572512184967",
+    "project_id": "flyin-3f90f",
+    "storage_bucket": "flyin-3f90f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572512184967:android:56e6dd8912399f48cd6622",
+        "android_client_info": {
+          "package_name": "com.example.chatsphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5vLmyaKZ3hoq5tDF3FrDXjAJD5qt6_cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572512184967:android:02b4c4a869be6789cd6622",
+        "android_client_info": {
+          "package_name": "com.example.flyin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5vLmyaKZ3hoq5tDF3FrDXjAJD5qt6_cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
